@@ -6482,8 +6482,8 @@ justify-content: center;
 }
 
 ul.service-details-page-list li:before {
-  content: "\e921";
-  font-family: 'icomoon';
+  content: "\f058";
+  font-family: 'FontAwesome';
   color: var(--theme-color);
   font-weight: 600;
   position: relative;
