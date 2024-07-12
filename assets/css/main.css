@@ -7105,6 +7105,13 @@ ul.postbox__comment_ratings {
 
 .contact-p-info-area .info h4 {
   margin-top: 10px;
+  
+}
+.contact-p-info-area .info #em{
+  max-width: 220px;
+  overflow-x: hidden;
+  word-wrap: break-word;
+  /* border: 1px solid red; */
 }
 
 
