@@ -1868,16 +1868,16 @@ figure{
 }
 
 .header-top-contact-info span.email:before {
-  content: "\e90a";
-  font-family: 'icomoon';
+  content: "\f0e0";
+  font-family: 'FontAwesome';
   position: absolute;
   top: 0;
   left: -25px;
 }
 
 .header-top-contact-info span.time:before {
-  content: "\e92b";
-  font-family: 'icomoon';
+  content: "\e29e";
+  font-family: 'FontAwesome';
   position: absolute;
   top: 0;
   left: -25px;
